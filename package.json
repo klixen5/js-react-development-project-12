@@ -12,8 +12,12 @@
   },
   "dependencies": {
     "@hexlet/chat-server": "^2.0.4",
+    "@mantine/core": "^9.5.1",
+    "@mantine/form": "^9.5.1",
+    "lorem-ipsum": "^3.0.0",
     "react": "^19.2.8",
-    "react-dom": "^19.2.8"
+    "react-dom": "^19.2.8",
+    "react-router-dom": "^7.18.2"
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",
