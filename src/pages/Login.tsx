@@ -8,7 +8,6 @@ const Login = () => {
       password: '',
     }
   })
-
   return (
     <form>
       <TextInput
